@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    background-color: hsla(0, 100%, 50%, 0.700);
+    text-align: justify;
+}
+
+h2 {
+    background-color: rgba(255, 81, 0, 0.700);
+    text-align: justify;
+}
+
+p {
+    background-color: rgba(255, 255, 0, 0.700);
+    text-align: justify;
+}
+
+a {
+    background-color: aquamarine;
+}

@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: Love;
+    src: url("love_11/Love.ttf");
+}
+
+body {
+    background-color: #d0f8d9ad;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: black;
+}
+
+h1#principal {
+    text-align: center;
+    color: white;
+    background-color: #0fc737ad;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #087520ad;
+}
+.basico {
+    color: green;
+}
+
+.intermediario {
+    color: #807300;
+}
+
+.avancado {
+    color: #800000;
+}
+
+.destaque {
+    font-weight: bold;
+}

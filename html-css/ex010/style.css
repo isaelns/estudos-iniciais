@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+body {
+    background-color: #000000;
+
+    font-family: sans-serif, Courier, monospace;
+}
+
+h1 {
+    color: white;
+    
+    text-align: center;
+}
+
+h2 {
+    background-color: lightcoral;
+
+    width: fit-content;
+
+    border-radius: 5px;
+}
+
+p {
+    background-color: rgb(83, 83, 83);
+
+    color: white;
+
+    text-align: justify;
+
+    width: fit-content;
+
+    border-radius: 2px;
+
+    padding: 0px 10px;
+}
+
+.opcao {
+    color: white;
+    
+
+    width: fit-content;
+
+    border-radius: 5px;
+
+    padding: 3px;
+
+    margin: 0px 5px 0px 0px;
+
+    display: inline;
+}
+
+.opcao:hover {
+    background-color: rgb(255, 255, 255);
+
+    color: rgb(0, 0, 0);
+}
