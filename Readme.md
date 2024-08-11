@@ -1,1 +1,1 @@
-Olá, esse é o meu primeiro repositório onde estão arquivos de estudos inicias de HTML-CSS!
+Olá, esse é o meu primeiro repositório onde estão arquivos de estudos iniciais de HTML-CSS!
