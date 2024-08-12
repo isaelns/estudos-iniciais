@@ -93,7 +93,7 @@ header > p {
 
 @media (min-width: 899px) {
     header > p {
-        font-size: 2.5vw;
+        font-size: 2.1vw;
     }
 }
 
@@ -213,4 +213,12 @@ footer a:hover {
 
 footer p {
     margin-bottom: 0%;
+}
+
+header#conteiner {
+    position: relative;
+}
+nav#conteudo{
+    min-width: max-content;
+    transform: translate(-50% -50%);
 }
